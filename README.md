@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an **Software Engineer** from Tbilisi, Georgia. I've been developing iOS apps for **more than 2 years**.
+I'm an **Software Engineer** from Tbilisi, Georgia. I've been developing iOS apps for **more than 3 years**.
 
 ##### WHERE TO FIND ME
 
