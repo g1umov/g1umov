@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm an **Software Engineer** from Tbilisi, Georgia. I've been developing iOS apps for **more than 3 years**.
+### Hi there, I'm Vlad! 👋
 
 ##### WHERE TO FIND ME
 
