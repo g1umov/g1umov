@@ -1,7 +1,17 @@
-### Hi there, I'm Vlad! 👋
+<h1 align="center">Hi there 👋, I'm Vladislav – iOS Engineer</h1>
 
-##### WHERE TO FIND ME
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-Swift-blue" alt="iOS Badge" />
+  <img src="https://img.shields.io/badge/Available%20for-Remote%20Work-green" alt="Remote Badge" />
+</p>
 
-<a href="mailto:vladislavglumov30@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23ffffff.svg?&style=for-the-badge&logo=gmail" />
-<br/>
-<a href="https://www.linkedin.com/in/vladislav-glumov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=linkedin&logoColor=rgb(10,102,194)" />
+**About Me**
+
+- 🧑‍💻 iOS Software Engineer with over 5 years of experience building high-quality apps
+- 🔧 Skilled in **Swift**, **SwiftUI**, **UIKit**, **Combine**, and **CoreData**
+- 🧪 Strong focus on testing, architecture, and continuous delivery (CI/CD)
+
+**Get in Touch**
+
+- 📧 Email: vladislavglumov30@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/vladislav-glumov](linkedin.com/in/vladislav-glumov)
